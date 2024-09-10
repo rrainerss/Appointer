@@ -2,7 +2,6 @@ import random
 from selenium import webdriver
 import config
 import time
-import undetected_chromedriver as uc
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
