@@ -19,3 +19,7 @@ site_attributes = dict(
     send_mail_if_year = 2024,
     check_for_doctor_name = 'Name Lastname'
 )
+# Program settings
+program_config = dict(
+    request_timeout_minutes = 15
+)
