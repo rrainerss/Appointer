@@ -1,2 +1,3 @@
 selenium
 webdriver-manager
+# also install chrome for whichever system youre using
