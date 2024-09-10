@@ -1,3 +1,5 @@
+# Remove 'example.' from the filename and replace necessary values with yours
+
 # Email configuration
 email_config = dict(
     sender_address = 'email@email.com',
